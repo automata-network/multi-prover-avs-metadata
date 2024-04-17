@@ -1,7 +1,7 @@
 {
     "name": "Automata Multi-Prover AVS",
     "website": "https://ata.network",
-    "description": "The Automata Multi-Prover AVS target to build a robust, fortified prover system through the use of diverse, decentralized TEE committees.",
+    "description": "Automata Multi-Prover AVS enables decentralized systems (rollups, coprocessors, L2s) to utilize the TEE Prover as a secondary proving mechanism. A Multi-Prover system hardens security and reduces the system’s susceptibility to bugs, with robustness reinforced by TEE Committees.",
     "logo": "https://raw.githubusercontent.com/automata-network/multi-prover-avs-metadata/main/ata-logo.png",
     "twitter": "https://twitter.com/automatanetwork"
 }
